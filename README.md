@@ -1,6 +1,6 @@
 ## About Me
-<h1 align="center"> Konijiwa, I'm Jay but you can call me garry</h1>
-<h3 align="center">I'm a junior network & want to learn fullstack Dev</h3>
+<h1> <p align="center"> Konijiwa, I'm Jay but you can call me garry</p></h1>
+<h2> <p align="center">I'm a junior network & want to learn fullstack Dev</p></h2>
 <br />
 <img align="right" alt="Coding" width="300" src="https://img.freepik.com/premium-photo/sticker-girl-learning-coding-fundamen-creative-design-bold-line-cute-kawaii-style_655090-455245.jpg">
 
