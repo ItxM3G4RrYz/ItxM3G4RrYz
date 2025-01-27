@@ -1,6 +1,6 @@
 ## About Me
 <h1> <p align="center"> Konijiwa, I'm Jay but you can call me garry</p></h1>
-<h2> <p align="center">I'm a junior network & want to learn fullstack Dev</p></h2>
+<h2> <p align="center">I'm a junior network & want to learn fullstack Dev and Network</p></h2>
 <br />
 <img align="right" alt="Coding" width="300" src="https://img.freepik.com/premium-photo/sticker-girl-learning-coding-fundamen-creative-design-bold-line-cute-kawaii-style_655090-455245.jpg">
 
@@ -8,7 +8,7 @@
 
 - 📫 Contact Me! **jayjaysupanat2003@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Social:</h3>
 <p align="left">
 <a href="https://instagram.com/jay.supanat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jay.supanat" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/katsumizx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="katsumizx" height="30" width="40" /></a>
