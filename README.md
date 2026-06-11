@@ -1,6 +1,6 @@
 ## About Me
-<h1> <p align="center"> Konijiwa, I'm Jay but you can call me garry or katsumi (what ever you wanna call)</p></h1>
-<h2> <p align="center">I'm a dev now interested at network and cybersecurity</p></h2>
+<h1> <p align="center"> Hello, I'm Jay but you can call me garry or katsumi (what ever you wanna call)</p></h1>
+<h2> <p align="center">I'm a dev now interested at networking</p></h2>
 <br />
 <img align="right" alt="Coding" width="300" src="https://img.freepik.com/premium-photo/sticker-girl-learning-coding-fundamen-creative-design-bold-line-cute-kawaii-style_655090-455245.jpg">
 
